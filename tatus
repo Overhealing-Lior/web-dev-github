@@ -1,0 +1,48 @@
+[33mcommit db6d088a9794f54421d9e0fd5b027aca4a709e07[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Lior Solomonov <Liorsolomonov4@gmail.com>
+Date:   Sat Jun 15 15:26:20 2024 +0300
+
+    let me work
+
+[33mcommit 60750bcf36c47afb6bec4df6cd527b3edd63464c[m
+Merge: 24e19bd a943221
+Author: Lior Solomonov <Liorsolomonov4@gmail.com>
+Date:   Sat Jun 15 14:31:09 2024 +0300
+
+    merged text.tst from feature
+
+[33mcommit a9432212487e96987b28e9cfe5953f6276158b70[m
+Author: Lior Solomonov <Liorsolomonov4@gmail.com>
+Date:   Sat Jun 15 14:28:48 2024 +0300
+
+    changed test.txt content
+
+[33mcommit 24e19bd27b5c836ceb872533a65f365afa599ac8[m
+Author: Lior Solomonov <Liorsolomonov4@gmail.com>
+Date:   Sat Jun 15 14:27:36 2024 +0300
+
+    updated test.txt
+
+[33mcommit eb75db08eef625f4d773c29f14d59a6d5dec4345[m
+Author: Lior Solomonov <Liorsolomonov4@gmail.com>
+Date:   Sat Jun 15 14:23:41 2024 +0300
+
+    added new feature
+
+[33mcommit 8c8126df9afa5059a30bb073faab44ad55286222[m
+Author: Lior Solomonov <Liorsolomonov4@gmail.com>
+Date:   Sat Jun 15 14:09:02 2024 +0300
+
+    Change test.txt and added a second-commit.txt
+
+[33mcommit 9c18200f7e15e69dabc6a34eb8a3dbacecd87049[m
+Author: Lior Solomonov <Liorsolomonov4@gmail.com>
+Date:   Sat Jun 15 14:02:36 2024 +0300
+
+    added test.txt file
+
+[33mcommit e71d1ed4d51963c9852c3d0fbd17a180c5b6ade3[m
+Author: Lior Solomonov <Liorsolomonov4@gmail.com>
+Date:   Sat Jun 15 13:49:49 2024 +0300
+
+    my first commit
